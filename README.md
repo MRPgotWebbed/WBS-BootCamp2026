@@ -1,1 +1,1 @@
-# BootyBootCamp2026
+# BootCamp2026
