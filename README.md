@@ -29,5 +29,3 @@ Das Bootcamp umfasst folgende Themenbereiche:
 ## Kontakt
 
 **LinkedIn:** www.linkedin.com/in/marco-p-91346b339
-
-**E-Mail:** deine@email.com
